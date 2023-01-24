@@ -1,7 +1,5 @@
 ## **I'm a beginner Frontend and Backend developer.**
 
-<br>
-
 ## **I study such tools and technologies:**
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
@@ -36,3 +34,19 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-000?style=for-the-badge&logo=InfluxDB)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000?style=for-the-badge&logo=Neo4j)
+
+
+## You can see my work:
+
+![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram)
+![CodePen](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen)
+![Behance](https://img.shields.io/badge/-Behance-000?style=for-the-badge&logo=Behance)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
+
+## Contact:
+
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=WhatsApp)
+![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram)
+![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)
+![Mail](https://img.shields.io/badge/-Mail-000?style=for-the-badge&logo=Mail.ru&logoColor=yellow)
+![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail)
